@@ -130,7 +130,7 @@ const Login: React.FC = () => {
                   Un Espacio
                 </h1>
                 <h2 className="font-serif text-2xl text-white/90 tracking-wide">
-                  Para Nosotros
+                  Exclusivo para ti 
                 </h2>
                 <p className="text-cyan-200/60 text-sm mt-3 font-sans">
                   Acceso exclusivo para Diego y Nina
