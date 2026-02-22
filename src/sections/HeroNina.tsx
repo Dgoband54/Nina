@@ -82,9 +82,9 @@ const HeroNina: React.FC = () => {
           transition={{ duration: 1, delay: 0.4 }}
           className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-6"
         >
-          Un Espacio{' '}
+          If You die,{' '}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-sapphire-400 to-azure-400">
-            Para Gissela
+            I die
           </span>
         </motion.h1>
 
